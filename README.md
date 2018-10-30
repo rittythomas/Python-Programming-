@@ -20,3 +20,4 @@ For now you can use [IDLE](https://docs.python.org/3/library/idle.html), which i
 
 ### 3. Compiling and Execution ###
 
+https://education.github.com/discount_requests/3278471/personal_details
