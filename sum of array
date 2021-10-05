@@ -1,20 +1,20 @@
 # Python 3 code to find sum 
 # of elements in given array 
-def _sum(arr,n): 
+def _sum(array,n): 
 	
 	# return sum using sum 
 	# inbuilt sum() function 
 	return(sum(arr)) 
 
 # driver function 
-arr=[] 
+array=[] 
 # input values to list 
-arr = [12, 3, 4, 15] 
+array = [12, 3, 4, 15] 
 
 # calculating length of array 
-n = len(arr) 
+n = len(array) 
 
-ans = _sum(arr,n) 
+ans = _sum(array,n) 
 
 # display sum 
 print (\'Sum of the array is \',ans) 
